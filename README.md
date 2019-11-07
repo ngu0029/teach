@@ -1,5 +1,5 @@
 ### R Tutorials
-- http://r-statistics.co/
+- http://r-statistics.co/ > An educational resource for those seeking knowledge related to machine learning and statistical computing in R
 
 ### R data processing and estimation
 - http://rstudio-pubs-static.s3.amazonaws.com/262992_2f91dbebdffc4ca4ad2cde227f724b39.html > flights dataset
