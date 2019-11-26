@@ -20,5 +20,6 @@
 - https://medium.com/sciforce/best-data-and-big-data-visualization-techniques-e07b897751dd
 
 ### Sources
-- [TRƯỜNG HÈ KHAI PHÁ DỮ LIỆU](http://fit.uet.vnu.edu.vn/dmss2016/) -> Phân tích và khai phá mạng xã hội, hệ khuyến nghị, deep learning for texts
-- [Khóa học Giới Thiệu Về Khoa Học Dữ Liệu tại VIASM](https://viasm.edu.vn/hdkh/khoa-hoc-gioi-thieu-ve-khoa-hoc-du-lieu-tai-ha-noi), [tài liệu](http://www.jaist.ac.jp/~bao/DS2017/) -> big data, data science, recommender system
+- [TRƯỜNG HÈ KHAI PHÁ DỮ LIỆU tại UET Hà Nội](http://fit.uet.vnu.edu.vn/dmss2016/) -> Phân tích và khai phá mạng xã hội, hệ khuyến nghị, deep learning for texts
+- [Khóa học Giới Thiệu Về Khoa Học Dữ Liệu tại VIASM Hà Nội](https://viasm.edu.vn/hdkh/khoa-hoc-gioi-thieu-ve-khoa-hoc-du-lieu-tai-ha-noi), [tài liệu](http://www.jaist.ac.jp/~bao/DS2017/) -> big data, data science, recommender system
+- [Tài liệu giảng dạy tại cuuduongthancong](https://cuuduongthancong.com/)
