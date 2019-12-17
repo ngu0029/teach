@@ -16,6 +16,11 @@
 - https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html > schematic illustration and laying out multiple plots on a page
 - http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html > classify plots based on correlation, deviation, ranking, distribution, composition, change, group, spatial
 
+### R Forecasting
+- [Time Series and Forecasting](https://www.statmethods.net/advstats/timeseries.html) > Creating a time series, Seasonal Decomposition, Exponential Models (HoltWinters), ARIMA Models (to fit an autoregressive integrated moving averages model), Automated Forecasting
+- [A Little Book of R for Time Series](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/) > learning time series analysis with R; details of Decomposing Time Series, Forecasts using Exponential Smoothing and ARIMA Models
+- [DataCamp's manipulating time series in R course by Jeffrey Ryan](https://www.datacamp.com/courses/manipulating-time-series-data-in-r-with-xts-zoo) > learning time series analysis with R
+
 ### Big Data
 - https://medium.com/sciforce/best-data-and-big-data-visualization-techniques-e07b897751dd
 
