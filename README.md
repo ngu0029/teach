@@ -20,6 +20,7 @@
 - [Time Series and Forecasting](https://www.statmethods.net/advstats/timeseries.html) > Creating a time series, Seasonal Decomposition, Exponential Models (HoltWinters), ARIMA Models (to fit an autoregressive integrated moving averages model), Automated Forecasting
 - [A Little Book of R for Time Series](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/) > learning time series analysis with R; details of Decomposing Time Series, Forecasts using Exponential Smoothing and ARIMA Models
 - [DataCamp's manipulating time series in R course by Jeffrey Ryan](https://www.datacamp.com/courses/manipulating-time-series-data-in-r-with-xts-zoo) > learning time series analysis with R
+- [ARIMA Time Series Analysis: Forecasting](http://rstudio-pubs-static.s3.amazonaws.com/325096_1af357506bd841cc88fc050f4df5f445.html) > Box-Jenkins models (Auto-Regressive Integrated Moving Average), Forecasting Equation, Forecast from the Fit model
 
 ### Big Data
 - https://medium.com/sciforce/best-data-and-big-data-visualization-techniques-e07b897751dd
