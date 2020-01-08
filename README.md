@@ -32,3 +32,4 @@
 - [TRƯỜNG HÈ KHAI PHÁ DỮ LIỆU tại UET Hà Nội](http://fit.uet.vnu.edu.vn/dmss2016/) -> Phân tích và khai phá mạng xã hội, hệ khuyến nghị, deep learning for texts
 - [Khóa học Giới Thiệu Về Khoa Học Dữ Liệu tại VIASM Hà Nội](https://viasm.edu.vn/hdkh/khoa-hoc-gioi-thieu-ve-khoa-hoc-du-lieu-tai-ha-noi), [tài liệu](http://www.jaist.ac.jp/~bao/DS2017/) -> big data, data science, recommender system
 - [Tài liệu giảng dạy tại cuuduongthancong](https://cuuduongthancong.com/)
+- [Tài nguyên giáo dục mở (OER)](https://www.oercommons.org/) > cung cấp đa dạng rộng các tài liệu môn học, các mô đun, sách giáo khoa, video giảng dạy, bài kiểm tra, phần mềm và công cụ, tài liệu, kĩ thuật được dùng để hỗ trợ giáo dục
