@@ -35,3 +35,4 @@
 - [Tài liệu giảng dạy tại cuuduongthancong](https://cuuduongthancong.com/)
 - [Tài nguyên giáo dục mở (OER)](https://www.oercommons.org/) > cung cấp đa dạng rộng các tài liệu môn học, các mô đun, sách giáo khoa, video giảng dạy, bài kiểm tra, phần mềm và công cụ, tài liệu, kĩ thuật được dùng để hỗ trợ giáo dục
 - [Dominhhai talks](https://dominhhai.github.io/vi/talk/) > RNN, LSTM, Reinforcement Learning
+- [Here are 450 Ivy League courses you can take online right now for free](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/?fbclid=IwAR3QRrrDbDs_oOE-KoNAThrxe4K6uhe9un8Z6vD4EDPfbWhdCTUEiDvvOFU&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo&zarsrc=31) > tham khảo, bổ sung bài giảng, phương pháp giảng dạy online
