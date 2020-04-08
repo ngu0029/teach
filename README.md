@@ -30,7 +30,7 @@
 - [Các bài giảng khai phá dữ liệu web](http://uet.vnu.edu.vn/~thuyhq/courses.html) > hệ thống thông tin, khai phá dữ liệu/dữ liệu web, nghiên cứu khoa học
 
 ### NLP
-- [Exploring wild west of natural language generation — from n-gram and RNNs to Seq2Seq](https://towardsdatascience.com/exploring-wild-west-of-natural-language-generation-from-n-gram-and-rnns-to-seq2seq-2e816edd89c6) - Introduction to Natural Language Models as taught in an NLP Stanford class
+- [Exploring wild west of natural language generation — from n-gram and RNNs to Seq2Seq](https://towardsdatascience.com/exploring-wild-west-of-natural-language-generation-from-n-gram-and-rnns-to-seq2seq-2e816edd89c6) - Introduction to Natural Language Models as taught in an NLP Stanford class > easy-to-catch description of conditional seq2seq architecture (indeed encoder-decoder model): a decoder (essentially a **conditional LM**); decoder training method called **teacher forcing**; backpropagation in Seq2Seq operates **end to end** (learn the entire system with respect to a single loss); attention formulation given a set of vector **values** and a vector **query**; different strategies one can follow to predict the next word via the decoder (**greedy, beam search, sampling**).
 
 ### Sources
 - [TRƯỜNG HÈ KHAI PHÁ DỮ LIỆU tại UET Hà Nội](http://fit.uet.vnu.edu.vn/dmss2016/) -> Phân tích và khai phá mạng xã hội, hệ khuyến nghị, deep learning for texts
