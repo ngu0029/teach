@@ -14,7 +14,7 @@
 - [Natural Language Processing: From Basics to using RNN and LSTM](https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66) > A detailed introduction to all the concepts prevalent in the world of Natural Language Processing
 
 ### An toàn và bảo mật thông tin
-- [An toàn và bảo mật hệ thống thông tin - slides, giáo trình](https://cuuduongthancong.com/sjdt/an-toan-va-bao-mat-he-thong-thong-tin/hoang-xuan-dau/hv-cong-nghe-bcvt)
+- [An toàn và bảo mật hệ thống thông tin - đề cương, giáo trình, tài liệu](https://cuuduongthancong.com/sjdt/an-toan-va-bao-mat-he-thong-thong-tin/hoang-xuan-dau/hv-cong-nghe-bcvt), or [slides here](https://cuuduongthancong.com/sjdt/an-toan-va-bao-mat-he-thong-thong-tin//dh-bach-khoa-hcm)
 
 ### Sources
 - [TRƯỜNG HÈ KHAI PHÁ DỮ LIỆU tại UET Hà Nội](http://fit.uet.vnu.edu.vn/dmss2016/) -> Phân tích và khai phá mạng xã hội, hệ khuyến nghị, deep learning for texts
