@@ -13,6 +13,9 @@
 - [Recent advances in machine translation](https://medium.com/@utorontomist/machine-translation-today-78dd8bd1158c) > Parallel Inference, How do we know the output length beforehand, Unsupervised Translation
 - [Natural Language Processing: From Basics to using RNN and LSTM](https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66) > A detailed introduction to all the concepts prevalent in the world of Natural Language Processing
 
+### An toàn và bảo mật thông tin
+- [An toàn và bảo mật hệ thống thông tin - slides, giáo trình](https://cuuduongthancong.com/sjdt/an-toan-va-bao-mat-he-thong-thong-tin/hoang-xuan-dau/hv-cong-nghe-bcvt)
+
 ### Sources
 - [TRƯỜNG HÈ KHAI PHÁ DỮ LIỆU tại UET Hà Nội](http://fit.uet.vnu.edu.vn/dmss2016/) -> Phân tích và khai phá mạng xã hội, hệ khuyến nghị, deep learning for texts
 - [Khóa học Giới Thiệu Về Khoa Học Dữ Liệu tại VIASM Hà Nội](https://viasm.edu.vn/hdkh/khoa-hoc-gioi-thieu-ve-khoa-hoc-du-lieu-tai-ha-noi), [tài liệu](http://www.jaist.ac.jp/~bao/DS2017/) -> big data, data science, recommender system
