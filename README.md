@@ -5,7 +5,7 @@
 - https://medium.com/sciforce/best-data-and-big-data-visualization-techniques-e07b897751dd
 
 ### Intro to Data Science
-- [Intro to Data Science - CSC 599.70 · Fall 2019 · City College of New York](https://grantmlong.com/teaching/fall2019/index.html)
+- [Intro to Data Science - CSC 599.70 · Fall 2019 · City College of New York](https://grantmlong.com/teaching/fall2019/index.html) > good slides, readings, assignments, demos
 
 ### Web Data Mining
 - [Các bài giảng khai phá dữ liệu web](http://uet.vnu.edu.vn/~thuyhq/courses.html) > hệ thống thông tin, khai phá dữ liệu/dữ liệu web, nghiên cứu khoa học
