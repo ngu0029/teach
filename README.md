@@ -16,6 +16,7 @@
 - [Recent advances in machine translation](https://medium.com/@utorontomist/machine-translation-today-78dd8bd1158c) > Parallel Inference, How do we know the output length beforehand, Unsupervised Translation
 - [Natural Language Processing: From Basics to using RNN and LSTM](https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66) > A detailed introduction to all the concepts prevalent in the world of Natural Language Processing
 - [Language Modeling là gì](https://ongxuanhong.wordpress.com/2016/08/27/language-modeling-la-gi/)
+- [Recent Advancements in NLP](https://towardsdatascience.com/recent-advancements-in-nlp-2-2-df2ee75e189)
 
 ### An toàn và bảo mật thông tin
 - [An toàn và bảo mật hệ thống thông tin - đề cương, giáo trình, tài liệu](https://cuuduongthancong.com/sjdt/an-toan-va-bao-mat-he-thong-thong-tin/hoang-xuan-dau/hv-cong-nghe-bcvt), or [slides here](https://cuuduongthancong.com/sjdt/an-toan-va-bao-mat-he-thong-thong-tin//dh-bach-khoa-hcm)
