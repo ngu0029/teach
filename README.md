@@ -6,6 +6,7 @@
 
 ### Intro to Data Science
 - [Intro to Data Science - CSC 599.70 · Fall 2019 · City College of New York](https://grantmlong.com/teaching/fall2019/index.html) > good slides, readings, assignments, demos
+- [Bài giảng Nhập môn KHDL - Thầy Đỗ Xuân Hảo UIT](https://www.youtube.com/watch?v=JRbEXo04D-o&list=PLQj93CJe0N72eXz0H-fRiEeCAkjBr5bAO)
 
 ### Web Data Mining
 - [Các bài giảng khai phá dữ liệu web](http://uet.vnu.edu.vn/~thuyhq/courses.html) > hệ thống thông tin, khai phá dữ liệu/dữ liệu web, nghiên cứu khoa học
