@@ -24,6 +24,8 @@
 - [Exploding and Vanishing Gradients
 ](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/readings/L15%20Exploding%20and%20Vanishing%20Gradients.pdf)
 
+### Database
+
 ### An toàn và bảo mật thông tin
 - [An toàn và bảo mật hệ thống thông tin - đề cương, giáo trình, tài liệu](https://cuuduongthancong.com/sjdt/an-toan-va-bao-mat-he-thong-thong-tin/hoang-xuan-dau/hv-cong-nghe-bcvt), or [slides here](https://cuuduongthancong.com/sjdt/an-toan-va-bao-mat-he-thong-thong-tin//dh-bach-khoa-hcm)
 
@@ -35,3 +37,6 @@
 - [Dominhhai talks](https://dominhhai.github.io/vi/talk/) > RNN, LSTM, Reinforcement Learning
 - [Here are 450 Ivy League courses you can take online right now for free](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/?fbclid=IwAR3QRrrDbDs_oOE-KoNAThrxe4K6uhe9un8Z6vD4EDPfbWhdCTUEiDvvOFU&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo&zarsrc=31) > tham khảo, bổ sung bài giảng, phương pháp giảng dạy online
 - [45 places you can download tens of thousands books, plays and other literary texts completely legally for free](https://nothingintherulebook.com/2017/01/10/55-places-you-can-download-tens-of-thousands-books-plays-and-other-literary-texts-completely-legally-for-free/?fbclid=IwAR29pC2Pna1-yOD_bKwecTtHOoBZ1YY9XM1SZ_P3CXEUXREWBOpfsytw5IE)
+- [GS Yoshua nói về kinh nghiệm ươm tài năng AI](https://vnexpress.net/gs-yoshua-noi-ve-kinh-nghiem-uom-tai-nang-ai-4199932.html)
+> - [deeplearningbook.org](deeplearningbook.org) > lectures, exercises, Deep Learning research (Deep Generative Models...)
+> - Pytorch – một thư viện mã nguồn mở được phát triển riêng cho học sâu (deep learning)
