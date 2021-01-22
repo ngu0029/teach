@@ -16,10 +16,10 @@
 
 ### Deep Learning
 - [The 10 Deep Learning Methods AI Practitioners Need to Apply](https://medium.com/cracking-the-data-science-interview/the-10-deep-learning-methods-ai-practitioners-need-to-apply-885259f402c1)
-Slides CDSvaGIAODUC-kythuat.pdf:
-+ Page 3: 2 books - Việt Nam thời chuyển đổi số, Hỏi đáp về chuyển đổi số
-+ Page 56: các công nghệ lõi của CĐS (Cloud Computing, IoT, 5G, Blockchain, AI, Big Data, Data Science)
-+ Data science: page 76 (DS - KH về phân tích dữ liệu), page 78 (AI vs. DS)
+- Slides CDSvaGIAODUC-kythuat.pdf:
+> + Page 3: 2 books - Việt Nam thời chuyển đổi số, Hỏi đáp về chuyển đổi số
+> + Page 56: các công nghệ lõi của CĐS (Cloud Computing, IoT, 5G, Blockchain, AI, Big Data, Data Science)
+> + Data science: page 76 (DS - KH về phân tích dữ liệu), page 78 (AI vs. DS)
 
 ### NLP
 - [Exploring wild west of natural language generation — from n-gram and RNNs to Seq2Seq](https://towardsdatascience.com/exploring-wild-west-of-natural-language-generation-from-n-gram-and-rnns-to-seq2seq-2e816edd89c6) - Introduction to Natural Language Models as taught in an NLP Stanford class > 1. **Text generation**: n-gram LM, RNN, LSTM, GRU 2. **Conditional text generation**: easy-to-catch description of conditional seq2seq architecture, indeed encoder-decoder model): a decoder (essentially a **conditional LM**); decoder training method called **teacher forcing**; backpropagation in Seq2Seq operates **end to end** (learn the entire system with respect to a single loss); attention formulation given a set of vector **values** and a vector **query**; different strategies one can follow to predict the next word via the decoder (**greedy, beam search, sampling**).
