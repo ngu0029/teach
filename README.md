@@ -14,6 +14,7 @@
 > + Page 3: 2 books - Việt Nam thời chuyển đổi số, Hỏi đáp về chuyển đổi số
 > + Page 56: các công nghệ lõi của CĐS (Cloud Computing, IoT, 5G, Blockchain, AI, Big Data, Data Science)
 > + Data science: page 76 (DS - KH về phân tích dữ liệu), page 78 (AI vs. DS)
+- Thêm nội dung bài trình bày của [KardiaChain](https://kardiachain.io/) về blockchain vào tháng 3
 
 ### Web Data Mining
 - [Các bài giảng khai phá dữ liệu web](http://uet.vnu.edu.vn/~thuyhq/courses.html) > hệ thống thông tin, khai phá dữ liệu/dữ liệu web, nghiên cứu khoa học
