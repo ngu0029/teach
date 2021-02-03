@@ -3,6 +3,7 @@
 
 ### Big Data
 - https://medium.com/sciforce/best-data-and-big-data-visualization-techniques-e07b897751dd
+- Book: [Jure Leskovec, Anand Rajaraman, Jeff Ullman - Mining of Massive Datasets](http://www.mmds.org/) with pdf, ppt, videos and courses > Big-data is transforming the world. Here you will learn data mining and machine learning techniques to process large datasets and extract valuable knowledge from them.
 
 ### Intro to Data Science
 - [Intro to Data Science - CSC 599.70 · Fall 2019 · City College of New York](https://grantmlong.com/teaching/fall2019/index.html) > good slides, readings, assignments, demos
