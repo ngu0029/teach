@@ -17,6 +17,9 @@
 > + Data science: page 76 (DS - KH về phân tích dữ liệu), page 78 (AI vs. DS)
 - Thêm nội dung bài trình bày của [KardiaChain](https://kardiachain.io/) về blockchain vào tháng 3
 
+### Data Engineering
+- [Bài giảng của Huyền Chip cho sinh viên Stanford](https://www.facebook.com/therealhuyenchip/posts/2931277607152587) - [tài liệu](https://docs.google.com/document/d/1b9iuZiDEGVLHyMmnf6w2y1aN6yWQhAyqk3GHlpI9q6M/edit?fbclid=IwAR0e40YZxknOQNwVC-RpBkrE7azcZm0KOspMvA3WC486DQYULFL-1z7hahw#heading=h.a8w2b79yy875)
+
 ### Web Data Mining
 - [Các bài giảng khai phá dữ liệu web](http://uet.vnu.edu.vn/~thuyhq/courses.html) > hệ thống thông tin, khai phá dữ liệu/dữ liệu web, nghiên cứu khoa học
 
