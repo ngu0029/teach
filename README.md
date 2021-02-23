@@ -37,6 +37,7 @@
 ](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/readings/L15%20Exploding%20and%20Vanishing%20Gradients.pdf)
 - [Natural Language Processing (NLP) with Python — Tutorial](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0) > Tutorial on the **basics** of natural language processing (NLP) with **sample coding implementations** in Python
 - [Develop a NLP Model in Python & **Deploy It with Flask**, Step by Step](https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776) > Flask API, Document Classification, Spam Filter
+- [**Text Mining** in Python: Steps and Examples](https://pub.towardsai.net/text-mining-in-python-steps-and-examples-78b3f8fd913b) > What is NLP, Terminologies in NLP (Tokenization, Finding frequency distinct in the text, Stemming, Lemmatization, Stop Words, Part of speech tagging, Named entity recognition, Chunking)
 
 ### Database
 
